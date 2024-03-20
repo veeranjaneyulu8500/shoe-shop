@@ -1,0 +1,88 @@
+
+
+.Heading{
+    font-size: 20px;
+    text-align: center;
+background-color: gold;
+padding: 6px;
+margin :6px 0 8px 6px;
+border-width: 50%;
+    }
+
+.price{
+    font-size: 14px;
+    margin-left: 2px 0 0 0;
+    padding: 4px;
+    
+}
+
+.shipping{
+text-transform:uppercase;
+margin: 8px 0px 4px 0px;
+
+}
+
+.details{
+    font-size: large;
+    text-shadow: 5px;
+    margin: 15px 0px 6px 0px;
+    border-bottom: px;
+    
+}
+
+.info{
+    color: black;
+    font-size: larger;
+    margin-bottom: 4px;
+    
+}
+
+.Cart{
+    color: white;
+background-color: black;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 20px;
+background-color:orangered;
+width: 100%;
+
+}
+
+.color{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 4px;
+    border-color: black;
+}
+.color-green{
+background-color: green;
+}
+
+.color-yellow{
+    background-color: yellow;
+}
+
+.color-red{
+    background-color: red;
+}
+.color-blue{
+    background-color: blue;
+}
+
+.color-brown{
+    background-color: brown;
+}
+.color-orange{
+    background-color: orange;}
+.class-des{
+margin:0px 0 3px 4px;
+clear: both;
+margin-left: 5px;
+}
+
+.picture{
+margin : 4px 0 0 4px;
+}
